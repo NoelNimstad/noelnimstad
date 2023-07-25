@@ -1,7 +1,7 @@
 # おはようございます！ 
-I am Noel Nimstad (and the master of unfinished side projects)
+I am Noel Nimstad, a programming hobbyist (and the master of unfinished side projects)
 
-I am currently developing a RPG game in Unity, but along side that i also often develop side projects (most of which get "half" finished).
+I am currently developing a RPG game in Unity, but along side that I also often develop side projects (most of which get "half" finished).
 
 ## Languages
 "Real" language wise I know:
