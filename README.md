@@ -7,7 +7,7 @@ I am currently <a href="https://secondstorygames.com">developing a RPG game</a> 
 "Real" language wise I know:
 - Swedish (fluently)
 - English (fluently)
-- Japanese (N5ish so far)
+- Japanese (N4ish so far)
 
 <br/>
 
