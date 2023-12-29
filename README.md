@@ -1,7 +1,7 @@
 # おはよう！ 
 I am Noel Nimstad, a programming hobbyist width 5 years of experience.
 
-I am currently <a href="https://https://noelnimstad.github.io/HEATFORGE-documentation/index.html">developing a game engine called Heatforge</a> in C++, and other smaller side projects. Will eventually create a game with said engine.
+I am currently <a href="https://noelnimstad.github.io/HEATFORGE-documentation/index.html">developing a game engine called Heatforge</a> in C++, and other smaller side projects. Will eventually create a game with said engine.
 
 ## Languages
 "Real" language wise I know:
