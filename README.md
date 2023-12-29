@@ -1,32 +1,32 @@
-# おはようございます！ 
-I am Noel Nimstad, a programming hobbyist (and the master of unfinished side projects)
+# おはよう！ 
+I am Noel Nimstad, a programming hobbyist width 5 years of experience.
 
-I am currently <a href="https://secondstorygames.com">developing a RPG game</a> in Unity, but along side that I also often develop side projects (most of which get "half" finished).
+I am currently <a href="https://https://noelnimstad.github.io/HEATFORGE-documentation/index.html">developing a game engine called Heatforge</a> in C++, and other smaller side projects. Will eventually create a game with said engine.
 
 ## Languages
 "Real" language wise I know:
 - Swedish (fluently)
 - English (fluently)
-- Japanese (N4ish so far)
+- Japanese (~N4-N3)
 
 <br/>
 
 Computer language wise I know:
 - JS (vanilla and node)
-- C# (Unity)
-- C++ (still learning alot)
-- Bebis (my own language 🙃)
+- Unity C#
+- C++
+- Bebis
 
 <br/>
 
-My most used languages:
+My commonly used languages:
 <br/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoelNimstad&show_icons=true&locale=en&theme=transparent&hide_border=true&hide_title=true&disable_animations=true&layout=compact"/>
 
 ## Websites
-
 - https://noel.nimstad.com
 - http://secondstory.games
+- https://noelnimstad.github.io/HEATFORGE-documentation/index.html
 
 ## Contact
 - Email: noel@nimstad.com
-- Discord: NoelNimstad
+- Discord: nimstad
