@@ -12,7 +12,8 @@ I am currently <a href="https://https://noelnimstad.github.io/HEATFORGE-document
 <br/>
 
 Computer language wise I know:
-- JS (vanilla and node)
+- Javascript
+- Typescript
 - Unity C#
 - C++
 - Bebis
