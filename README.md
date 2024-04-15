@@ -1,32 +1,25 @@
-# おはよう！ 
-I am Noel Nimstad, a programming hobbyist width 5 years of experience.
-
-I am currently <a href="https://noelnimstad.github.io/HEATFORGE-documentation/index.html">developing a game engine called Heatforge</a> in C++, and other smaller side projects. Will eventually create a game with said engine.
+# ノエルでございます。 
+Good morning, I am Noel Nimstad, a hobbyist programmer of 5 years. I hop from project to project often but my main goal right now is to write my very own programming language (targeting Arm64 Assembly for MacOS) called 赤ちゃん (akachan, baby).
 
 ## Languages
-"Real" language wise I know:
-- Swedish (fluently)
+- Swedish (natively)
 - English (fluently)
 - Japanese (~N4-N3)
 
 <br/>
 
-Computer language wise I know:
 - Javascript
+- Bebis.js
 - Typescript
 - Unity C#
 - C++
-- Bebis
+- 赤ちゃん
 
-<br/>
-
-My commonly used languages:
-<br/><img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoelNimstad&show_icons=true&locale=en&theme=transparent&hide_border=true&hide_title=true&disable_animations=true&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoelNimstad&show_icons=true&locale=en&theme=transparent&hide_border=true&hide_title=true&disable_animations=true&layout=compact"/>
 
 ## Websites
 - https://noel.nimstad.com
 - http://secondstory.games
-- https://noelnimstad.github.io/HEATFORGE-documentation/index.html
 
 ## Contact
 - Email: noel@nimstad.com
