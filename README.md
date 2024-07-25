@@ -1,5 +1,5 @@
-# ノエルでございます。 
-Good morning, I am Noel Nimstad, a hobbyist programmer of 5 years. I hop from project to project often but my main goal right now is to write my very own programming language (targeting Arm64 Assembly for MacOS) called 赤ちゃん (akachan, baby).
+# 「ん」でございます。 
+Good morning, I am ん, a hobbyist programmer of 5 years. I hop from project to project often but my main goal right now is to write my very own programming language (targeting Arm64 Assembly for MacOS) called 赤ちゃん (akachan, baby).
 
 ## 言語 Languages
 - Swedish (natively)
