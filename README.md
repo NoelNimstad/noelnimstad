@@ -8,9 +8,9 @@ Good morning, nimstadだよ. I'm a hobbyist programmer who hops from project to 
 
 <br/>
 
+- C/C++
 - Javascript/Typescript
 - Unity C#
-- C/C++
 - AKACHAN
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=NoelNimstad&show_icons=true&locale=en&theme=transparent&hide_border=true&hide_title=true&disable_animations=true&layout=compact"/>
