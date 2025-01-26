@@ -1,10 +1,10 @@
-# おはよう Goodmorning。 
+# おはよう Goodmorning
 Good morning, I'm Noel Nimstad, a hobbyist programmer who hops from project to project far too often.
 
 ## 言語 Languages
 - Swedish (natively)
 - English (fluently)
-- Japanese (~N4-N3)
+- Japanese (~N2)
 
 <br/>
 
